@@ -53,9 +53,12 @@ The chatbot supports dynamic question-answering by combining:
 
 ---
 
-## ⚙️ Running the App
+## ⚙️ Installation & Running the App
 
-1. Install Dependencies
+```bash
+
+# 1. Install dependencies
 pip install -r requirements.txt
-2. Run the Application
-python -m streamlit run a1.py
+
+# 2. Run the application
+streamlit run app.py
